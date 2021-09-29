@@ -10,33 +10,35 @@
   <a href="https://www.linkedin.cn/in/aleksandr-verevkin-6abb09210/" target="_blank">
     <img alt="Aleksandr Verevkin Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/alexdolbun" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+  <a href="https://twitter.com/alexsnoor" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexsnoor?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
   <a/>
     </br>
   <strong> FOLLOW Community teammate who follow you back  </strong>
  </br>
   <a href="https://github.com/KhristenkoE" target="_blank">
-    <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
+    <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20Evgeny%20Khristenko&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/maximlitvinov" target="_blank">
-    <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20MaximLitvinov&logo=github&style=for-the-badge">
+    <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20Maxim%20Litvinov&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/alexsnoor" target="_blank">
-    <img alt="alexsnoor GitHub followers" src="https://img.shields.io/github/followers/alexsnoor?label=FOLLOW%20AlexVerevkin&logo=github&style=for-the-badge">
+    <img alt="alexsnoor GitHub followers" src="https://img.shields.io/github/followers/alexsnoor?label=FOLLOW%20Aleksandr%20Verevkin&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/Olianayda" target="_blank">
-    <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20OliaNayda&logo=github&style=for-the-badge">
+    <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20Olia%20Nayda&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/HakasLepehen" target="_blank">
     <img alt="Pavel Petrov GitHub followers" src="https://img.shields.io/github/followers/HakasLepehen?label=FOLLOW%20Pavel%20Petrov&logo=github&style=for-the-badge">
+  <a/>  <a href="https://github.com/alexdolbun" target="_blank">
+    <img alt="Aleksey Dolgikh GitHub followers" src="https://img.shields.io/github/followers/alexdolbun?label=FOLLOW%20Aleksey%20Dolgikh&logo=github&style=for-the-badge">
   <a/>
 </p>
 
     
-- 🔭 I’m 🎴 <a href="https://alexdolbun.com?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://alexdolbun.com<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://muteit.app<a/>
+- 🔭 I’m 🎴 <a href="https://alexandrverevkin.com?utm_source=github.com%2Falexsnoor&utm_medium=github+profile&utm_campaign=github-unicorn_witnesses&utm_id=272094394&utm_term=table&utm_content=soft_developer" target="_blank">Aleksandr Verevkin developer<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">muteit.app<a/>
 - 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
-- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">https://unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
+- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
 - 🤔 **COMMUNITY OF TEAMMATES LOOKING FOR HELP** with <a style="color:red">**SOCIALLY**</a> <span style="color:blue">**RELEVANCE**</span> <span style="color:green">**DIGITAL**</span> <span style="color:purple">**PRODUCT**</span> 
     - 📢📢📢🆘  
     
@@ -110,8 +112,7 @@
     
     - 📢📢🆘
     
-- 💬 Ask me about BusDev, ITIL integration, One-one-One, Digital Product Quality Assistance, OSS integration
-- 📫 How to reach me: alexdolbun@icloud.com or <a href="https://alexdolbun.com" target="_blank">https://alexdolbun.com<a/>
+- 📫 How to reach me: alexsnoor@gmail.com or <a href="https://alexandrverevkin.com" target="_blank">alexandrverevkin.com<a/>
 - ⚡ Fun fact: I love DISRUPT THE INDUSTRY 🦄🚀 or you could write it this way: Ḑ̵̠̫͇̮͓͗̐͋̍͘͝͠Í̷͓̖̈́̈͋̌̃̑͠S̶͚̙̱͍̙̤͑̊R̴̝̳̩̪̯͌͒Û̷̪̿͛͊̿̅̈̎̚P̶̨̡̫̫̙̳̞̖̝̉̎̀̈́̈́́̿ͅT̶͍̥̬̘̞̼͇̩̈̄̆̆̊̽͂̚̚ ̸̜͉̱̯̱͓̘͙̈́̄͂̉͐̔̍̉̏̂Ṯ̸̓͊Ḥ̴̪͖̘̫̲̞̗̿̓͌̆̓̉̏̍̕E̷͙̹̳̋̂̒̀̾͘̚ ̷͚̺̎͐I̵̧̜̬̳͕̍́͌́̏̔̅N̴̛̛̲̫̣̦͓̻̳͗̿́̅̓̑͌͝D̴̦̥̱̹̲̖͚̰̃̿̃͂̐̀̓̚Ų̸̡͙͔̂̔͆͗̈̅̾̕͝S̶̨̻͓̯̟͈̫̰̍̂͆̔T̸̢͎͈͎̗̺͙̠̘̓͑̏̎̆̈́̿̒R̵͈̗̜̙̹͂Ý̸̹͈̳͋̍͂
     
 ---
@@ -121,8 +122,8 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true" alt="alexdolbun gamification of github by https://github.com/ryo-ma/github-profile-trophy online setup here: https://github-readme-streak-stats.herokuapp.com/demo/">
+      <a href="https://alexandrverevkin.com" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=alexsnoor&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true" alt="alexsnoor gamification of github by https://github.com/ryo-ma/github-profile-trophy online setup here: https://github-readme-streak-stats.herokuapp.com/demo/">
       <a/>
     </td>
    </tr>
@@ -133,26 +134,26 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexdolbun github stats">
+      <a href="https://alexandrverevkin.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexsnoor&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexsnoor github stats">
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&theme=github_dark&layout=compact&hide_border=true" alt="alexdolbun language stats">
+      <a href="https://alexandrverevkin.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsnoor&theme=github_dark&layout=compact&hide_border=true" alt="alexsnoor language stats">
       <a/>
     </td>
    </tr>
   <tr>
   <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=alexdolbun&theme=tokyonight_duo&hide_border=true" alt="alexdolbun streak stats">
+      <a href="https://alexandrverevkin.com" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=alexsnoor&theme=tokyonight_duo&hide_border=true" alt="alexsnoor streak stats">
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdolbun&repo=alexdolbun&theme=github_dark&hide_border=true" alt="alexdolbun Language usage time">
+      <a href="https://alexandrverevkin.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=alexsnoor&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
       <a/>
     </td>
    </tr>
