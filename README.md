@@ -37,7 +37,6 @@
 
     
 - 🔭 I’m <a href="https://alexandrverevkin.com?utm_source=github.com%2Falexsnoor&utm_medium=github+profile&utm_campaign=github-unicorn_witnesses&utm_id=272094394&utm_term=table&utm_content=soft_developer" target="_blank">Aleksandr Verevkin developer<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">muteit.app<a/>
-- 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
 - 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
 - 🤔 **COMMUNITY OF TEAMMATES LOOKING FOR HELP** with <a style="color:red">**SOCIALLY**</a> <span style="color:blue">**RELEVANCE**</span> <span style="color:green">**DIGITAL**</span> <span style="color:purple">**PRODUCT**</span> 
     - 📢📢📢🆘  
@@ -124,6 +123,7 @@
     <td>
       <a href="https://alexandrverevkin.com" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=alexsnoor&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true" alt="alexsnoor gamification of github by https://github.com/ryo-ma/github-profile-trophy online setup here: https://github-readme-streak-stats.herokuapp.com/demo/">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsnoor&theme=algolia" alt="alexsnoor's top Langs">  
       <a/>
     </td>
    </tr>
