@@ -123,7 +123,6 @@
     <td>
       <a href="https://alexandrverevkin.com" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=alexsnoor&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true" alt="alexsnoor gamification of github by https://github.com/ryo-ma/github-profile-trophy online setup here: https://github-readme-streak-stats.herokuapp.com/demo/">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsnoor&theme=algolia" alt="alexsnoor's top Langs">  
       <a/>
     </td>
    </tr>
