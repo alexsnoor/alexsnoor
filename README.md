@@ -152,7 +152,7 @@
     </td>
     <td>
       <a href="https://alexandrverevkin.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=unicornwitnesses&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=muteit.web&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
       <a/>
     </td>
    </tr>
