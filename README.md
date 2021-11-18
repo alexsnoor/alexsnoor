@@ -138,7 +138,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://github.com/alexsnoor/my_tasks" target="_blank">
+      <a href="https://alexandrverevkin.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsnoor&theme=github_dark&layout=compact&hide_border=true" alt="alexsnoor language stats">
       <a/>
     </td>
@@ -151,7 +151,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://alexandrverevkin.com" target="_blank">
+      <a href="https://github.com/alexsnoor/my_tasks" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=alexandrverevkin.com&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
       <a/>
     </td>
